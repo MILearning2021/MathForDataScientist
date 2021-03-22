@@ -1,0 +1,1 @@
+with cte_name as (select * from b)
